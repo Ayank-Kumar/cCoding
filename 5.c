@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main() {
+
+char a[20] ;
+scanf("%s %s",&a) ;
+printf("%s",a);
+
+
+
+return 0;
+}
